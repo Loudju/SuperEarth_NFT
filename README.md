@@ -68,8 +68,11 @@ Imports and libraries:
 ## Contributors
 
 Allyssa Carmin
+
 Vicky Lee
+
 Noman Zubairi
+
 Julian Louden
 
 ---
