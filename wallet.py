@@ -34,12 +34,12 @@ def get_balance(w3, address):
     # Return the value in ether
     return ether
 
-def send_transaction(w3, account, to, wage):
+def buy_land(w3, account, to, price):
     # Set gas price strategy
     w3.eth.setGasPriceStrategy(medium_gas_price_strategy)
 
     # Convert eth amount to Wei
-    value = w3.toWei(wage, "ether")
+    value = w3.toWei(price, "ether")
 
     # Calculate gas estimate
     gasEstimate = w3.eth.estimateGas({"to": to, "from": account.address, "value": value})
