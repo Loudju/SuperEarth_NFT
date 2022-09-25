@@ -81,6 +81,9 @@ Imports and libraries:
 ## Streamlit Snippets
 
 ![screenshot1](streamlit_screenshots/screenshot1.png)
+![screenshot2](streamlit_screenshots/screenshot2.png)
+![screenshot3](streamlit_screenshots/screenshot3.png)
+![screenshot4](streamlit_screenshots/screenshot4.png)
 
 ## Star Land Registry & Appraisal System with IPFS
 
