@@ -4,15 +4,13 @@ Develop a project that utilizes blockchain technology.
 
 Initial Idea: Auction land on the new super earth planet discovered recently and make available for purchase via our blockchain token.
 
-![LP 890-9c](https://user-images.githubusercontent.com/103230949/192163074-cb68c627-55d6-4f25-8b51-7ad3c822c8ce.png)
+![NASA-Has-Discovered-300-Million-Inhabitable-Planets](https://user-images.githubusercontent.com/103230949/192163101-17ee432e-f5cd-4478-abd8-cc1a43af43f1.jpg)
 
-![NASA-Has-Discovered-300-Million-Inhabitable-Planets](https://user-images.githubusercontent.com/103230949/192163085-e9c61d98-1cbd-498b-8201-4a6f907b1f95.jpg)
+![LP 890-9c](https://user-images.githubusercontent.com/103230949/192163074-cb68c627-55d6-4f25-8b51-7ad3c822c8ce.png)
 
 ![Screenshot 2022-09-20 190151](https://user-images.githubusercontent.com/103230949/192163098-95eecc1f-ced6-4eb6-ad09-36cf8693c0e2.png)
 
 ![Screenshot 2022-09-20 190256](https://user-images.githubusercontent.com/103230949/192163100-c1e135e1-62a4-4d83-a6ad-2a725fec2780.png)
-
-![NASA-Has-Discovered-300-Million-Inhabitable-Planets](https://user-images.githubusercontent.com/103230949/192163101-17ee432e-f5cd-4478-abd8-cc1a43af43f1.jpg)
 
 ---
 
