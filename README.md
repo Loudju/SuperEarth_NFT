@@ -15,6 +15,8 @@ Initial Ideas:
 
 ![Screenshot 2022-09-20 190151](https://user-images.githubusercontent.com/103230949/192163098-95eecc1f-ced6-4eb6-ad09-36cf8693c0e2.png)
 
+The class presentation is located here File: [New Earth Found - LP 890-9c.pdf](https://github.com/Loudju/project3_fintech/files/9641826/New.Earth.Found.-.LP.890-9c.pdf)
+
 ---
 
 ## Technologies
