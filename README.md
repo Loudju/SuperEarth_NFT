@@ -3,11 +3,9 @@
 Develop a project that utilizes blockchain technology. 
 
 Initial Ideas: 
-    1. For clients to purchase land on the new super earth planet discovered recently via Ethereum token.
-    
-    2. To be able to register and update the star land registry dApp, pin an star land File to IPFS via Pinata.
-    
-    3. All property NFT contracts are encrypted and tokenized on Solidity Remix IDE.
+1. For clients to purchase land on the new super earth planet discovered recently via Ethereum token.
+2. To be able to register and update the star land registry dApp, pin an star land File to IPFS via Pinata.
+3. All property NFT contracts are encrypted and tokenized on Solidity Remix IDE.
     
 ![image](https://user-images.githubusercontent.com/103230949/192163162-d9573e9a-19fe-48da-812c-d2fc04c9f173.png)
 
