@@ -3,6 +3,7 @@
 Develop a project that utilizes blockchain technology. 
 
 Initial Ideas: 
+
     1. For clients to purchase land on the new super earth planet discovered recently via Ethereum token.
     
     2. To be able to register and update the star land registry dApp, pin an star land File to IPFS via Pinata.
