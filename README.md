@@ -78,11 +78,16 @@ Imports and libraries:
 
 ---
 
-## Star Land Registry & Appraisal System
+## Star Land Registry & Appraisal System with IPFS
+
+## Instructions
+  1. Deploy the Contract
+  2. Prepare the environment
+  3. Build the dApp
+
 ![Metamask Transaction](https://user-images.githubusercontent.com/103230949/192166192-cbbf0137-8532-4831-8ece-7c7ba3647150.png)
 
 ![Metamask Transaction Confirmed](https://user-images.githubusercontent.com/103230949/192166203-bc46f139-da53-4571-ba24-2bed5370a097.png)
-
 
 ![Register Star Land](https://user-images.githubusercontent.com/103230949/192166212-59d08168-93c7-4dc9-a3ad-619230171135.png)
 
