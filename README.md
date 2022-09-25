@@ -78,6 +78,10 @@ Imports and libraries:
 
 ---
 
+## Streamlit Snippets
+
+
+
 ## Star Land Registry & Appraisal System with IPFS
 
 ## Instructions
