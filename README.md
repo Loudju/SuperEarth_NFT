@@ -9,8 +9,6 @@ Initial Ideas:
     
     3. All property NFT contracts are encrypted and tokenized on Solidity Remix IDE.
 
-![image](https://user-images.githubusercontent.com/103230949/192163162-d9573e9a-19fe-48da-812c-d2fc04c9f173.png)
-
 ![NASA-Has-Discovered-300-Million-Inhabitable-Planets](https://user-images.githubusercontent.com/103230949/192163101-17ee432e-f5cd-4478-abd8-cc1a43af43f1.jpg)
 
 ![LP 890-9c](https://user-images.githubusercontent.com/103230949/192163074-cb68c627-55d6-4f25-8b51-7ad3c822c8ce.png)
