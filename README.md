@@ -80,7 +80,7 @@ Imports and libraries:
 
 ## Streamlit Snippets
 
-
+![screenshot1](streamlit_screenshots/screenshot1.png)
 
 ## Star Land Registry & Appraisal System with IPFS
 
