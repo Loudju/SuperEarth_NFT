@@ -8,7 +8,7 @@ Initial Ideas:
     2. To be able to register and update the star land registry dApp, pin an star land File to IPFS via Pinata.
     
     3. All property NFT contracts are encrypted and tokenized on Solidity Remix IDE.
-
+    
 ![image](https://user-images.githubusercontent.com/103230949/192163162-d9573e9a-19fe-48da-812c-d2fc04c9f173.png)
 
 ![NASA-Has-Discovered-300-Million-Inhabitable-Planets](https://user-images.githubusercontent.com/103230949/192163101-17ee432e-f5cd-4478-abd8-cc1a43af43f1.jpg)
