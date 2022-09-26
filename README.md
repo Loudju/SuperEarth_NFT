@@ -1,4 +1,4 @@
-# project3_fintech
+# SuperEarth_NFT
 
 Develop a project that utilizes blockchain technology. 
 
