@@ -20,6 +20,30 @@ The class presentation is located here: [New Earth Found - LP 890-9c.pdf](https:
 ---
 ## Top Offerings
 
+ - Land 1-Diamond Land “Girls best friend”
+![Land1](https://user-images.githubusercontent.com/103230949/192176522-62017aab-c0bb-4b9b-b278-e855af807046.jpg)
+
+Diamond Land is an exquisite piece of land ownership that provides the best of the best in precious diamonds. Not only does this land hold diamonds but rubies of the most unique kind have been found to live deep within super earth. To rap your mind around just how much, lets just say, Diamond Land holds nearly 10 times the amount that have been found in Africa with more to spare. Our expectation is that the Top Jewelers from around the world will flood the market extremely quickly. Buy Now before its too late.
+
+ - Land2- Oil & Gas Land
+![Land2](https://user-images.githubusercontent.com/103230949/192176527-82ad9908-83c9-4dde-a954-2b13dc3d80cd.jpg)
+
+While Gas prices are soaring and people around this planet are going crazy, Super Earth has an abundance of Oil and Gas landfills that would make  the Saudi Arabian Supply look miniscule. This will not last long. As this is by far one of the most sought after types of Land on this planet and beyond. Super Earth will literaly fuel this planet. Be apart of saving planet earth today. Buy now.
+
+ - Land3- Waterloo “Infinite water spring rights”
+![Land3](https://user-images.githubusercontent.com/103230949/192176538-841c6b00-b8bb-4702-a9b5-00e8cf48f018.jpg)
+
+As you may know, water is at a drought on planet earth and resources are becoming more limited by the day. Buy land on Super Earth now, where your investment will last many light years beyond planet earth. With fresh spring water rights the possibilities are near infitie on how you could benefit humanity or commercialize your rights as you see fit.
+
+ - Land4 Gold Heaven
+![Land4](https://user-images.githubusercontent.com/103230949/192176544-3d83ecc0-1524-470c-a103-d1cc1f3013cd.jpg)
+
+Own the rights to your own gold heaven with these special out of this world land rights. As you may know gold is not just a commodity but very important when building the very technology that we use daily from phones to laptops. Gold has backed the dollar at one point and now the availability is beyond what the government can control. Own your own gold heaven today and the possibility to fund the money supply of the future. The possibilities are endless with this purchase as Gold is thee super conductor for Life.
+
+ - Land5- Ti22 “Titanium Overload”
+![Land5](https://user-images.githubusercontent.com/103230949/192176553-4c0a4040-2f99-41d9-8455-58e89331c1ac.jpg)
+
+Titanium is one of the strongest metals known to man and has been the bedrock of our defense departments weapon supply and the ability to build innovative technologies with many use cases. Do not hesitate to buy, as this land is sought after by all of the top governmental powers on earth such as The United States, China, Russia, Saudi, and more. With your purchase you could control innovation for centuries to come.
 ---
 
 ## Technologies
