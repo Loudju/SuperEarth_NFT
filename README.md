@@ -18,6 +18,9 @@ Initial Ideas:
 The class presentation is located here: [New Earth Found - LP 890-9c.pdf](https://github.com/Loudju/project3_fintech/files/9641826/New.Earth.Found.-.LP.890-9c.pdf)
 
 ---
+## Top Offerings
+
+---
 
 ## Technologies
 
@@ -96,7 +99,7 @@ Imports and libraries:
  ![Metamask Transaction Confirmed](https://user-images.githubusercontent.com/103230949/192166203-bc46f139-da53-4571-ba24-2bed5370a097.png)
  
   3. Build the dApp
-  4. 
+  
 ### Reister New Star Land:
 
 ![Register Star Land](https://user-images.githubusercontent.com/103230949/192166212-59d08168-93c7-4dc9-a3ad-619230171135.png)
