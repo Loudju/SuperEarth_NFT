@@ -100,20 +100,6 @@ Imports and libraries:
 
 ---
 
-## Usage
-
-* Step 1: 
-
-
-* Step 2: 
-
-
-* Step 3: 
-
-
-
----
-
 ## Streamlit Snippets
 
 ![screenshot1](streamlit_screenshots/screenshot1.png)
