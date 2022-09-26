@@ -18,7 +18,7 @@ Initial Ideas:
 The class presentation is located here: [New Earth Found - LP 890-9c.pdf](https://github.com/Loudju/project3_fintech/files/9641826/New.Earth.Found.-.LP.890-9c.pdf)
 
 ---
-## Top Offerings
+## Top Offerings on the Super-Earth
 
  - Land 1-Diamond Land “Girls best friend”
  
@@ -41,7 +41,7 @@ While Gas prices are soaring and people around this planet are going crazy, Supe
 As you may know, water is at a drought on planet earth and resources are becoming more limited by the day. Buy land on Super Earth now, where your investment will last many light years beyond planet earth. With fresh spring water rights the possibilities are near infitie on how you could benefit humanity or commercialize your rights as you see fit.
 
 
- - Land4 Gold Heaven
+ - Land-4 Gold Heaven
  
 ![Land4](https://user-images.githubusercontent.com/103230949/192176544-3d83ecc0-1524-470c-a103-d1cc1f3013cd.jpg)
 
